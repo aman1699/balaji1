@@ -17,10 +17,10 @@
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4606fafa.js",
-    "static/css/2.aca2dec5.chunk.css",
+    "static/js/runtime-main.d5c9d371.js",
+    "static/css/2.363acc5c.chunk.css",
     "static/js/2.ac1837fa.chunk.js",
-    "static/css/main.002ada19.chunk.css",
-    "static/js/main.a9414158.chunk.js"
+    "static/css/main.67d80408.chunk.css",
+    "static/js/main.24d923a1.chunk.js"
   ]
 }
