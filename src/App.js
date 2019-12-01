@@ -43,20 +43,23 @@ function App() {
           
 
 <div class="wrapper2">
-    <div class="counter col_fourth">
+                <div class="counter col_fourth">
+                  <p class="oo1">aman is gud</p>
     <i class="fa fa-code fa-2x some"></i>
       <h2 class="timer count-title count-number" data-to="300" data-speed="1100"></h2>
       
                 </div>
                 
 
-    <div class="counter col_fourth">
+                <div class="counter col_fourth">
+                  <p class="oo1">rishabh is chutiya</p>
     <i class="fa fa-code fa-2x some"></i>
       <h2 class="timer count-title count-number" data-to="1700" data-speed="1100"></h2>
       
     </div>
 
-    <div class="counter col_fourth">
+                <div class="counter col_fourth">
+                  <p class="oo1">rishabh is salesman</p>
     <i class="fa fa-coffee fa-2x some"></i>
       <h2 class="timer count-title count-number" data-to="11900" data-speed="1100"></h2>
       
@@ -72,7 +75,7 @@ function App() {
 
       <section id="services">
         <div className="container text-center">
-          <h1 className="title">OUR SERVICES</h1>
+          <h1 className="title1">OUR SERVICES</h1>
           <div className="row text-center">
             <div className="col-md-4 services">
               <a href="#"><img src="/lcl.JFIF" className="service-img" /></a>
@@ -235,7 +238,7 @@ by a range of specialized trailers,trucks as well as LCV’s also ensure safe 
           </div>
         </section>
       <div className="container go">
-        <h1 className="title text-center">OUR CLIENTS</h1>
+        <h1 className="title1 text-center">OUR CLIENTS</h1>
       </div>
       <section id="clients">
       <div className="container">
@@ -260,7 +263,7 @@ by a range of specialized trailers,trucks as well as LCV’s also ensure safe 
           <h1 className="title text-center">QUALITIES</h1>
           <div className="row">
             <div className="col-md-4 testimonials">
-              <h2 class="text-md-left">LEADERSHIP</h2>
+              <h2 class="text-md-left"><u>LEADERSHIP</u></h2>
               <p className="text-md-left">Mr. Vinod Mehrotra is the founder and CEO of Balaji Group of Companies. He is
 a qualified company Secretary (Fellow Company Secretary) having experience of
 around 22 years in the field of International logistics.<br></br></p><p class="text-md-left">He is successfully running
@@ -270,7 +273,7 @@ Inland Container Depot.</p>
                 
             </div>
             <div className="col-md-4 testimonials">
-              <h2 class="text-md-left">STRENGTH</h2>
+              <h2 class="text-md-left"><u>STRENGTH</u></h2>
               <p className="text-md-left">1.Dedicated and well informed team of experts</p>
               <p className="text-md-left">2.Reliable Network at International Ports</p>
               <p className="text-md-left">3.Extensive Trucking Coverage</p>
@@ -279,7 +282,7 @@ Inland Container Depot.</p>
               
             </div>
             <div className="col-md-4 testimonials">
-              <h2 class="text-md-left">STRENGTH</h2>
+              <h2 class="text-md-left"><u>STRENGTH</u></h2>
               <p className="text-md-left">1.Dedicated and well informed team of experts</p>
               <p className="text-md-left">2.Reliable Network at International Ports</p>
               <p className="text-md-left">3.Extensive Trucking Coverage</p>
@@ -294,7 +297,7 @@ Inland Container Depot.</p>
      
       <div className="container">
         
-<h1 className="title text-center">CONTACT US</h1>
+<h1 className="title1 text-center">CONTACT US</h1>
         <p className="aa">Streamlining different processes and workflows by using user access control Onebook prompts efficiency and productivity levels of an organization, and reduces operating costs</p>
       </div>
       <div className="container">
